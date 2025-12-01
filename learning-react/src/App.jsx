@@ -1,10 +1,9 @@
-import Combined from "./Topic-2/Combined";
+import ToggleText from './Topic-4/TextChange';
+
 function App() {
   return (
-    <>
-      <Combined />
-    </>
+    <ToggleText />
   );
 }
 
-export default App; 
+export default App;
