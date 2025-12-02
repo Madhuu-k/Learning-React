@@ -1,8 +1,8 @@
-import ToggleText from './Topic-4/TextChange';
+import ArrayState2 from "./Topic-4/ArrayState2";
 
 function App() {
   return (
-    <ToggleText />
+    <ArrayState2 />
   );
 }
 

@@ -3,7 +3,7 @@ function ArrayOperations() {
     return (
         <>
             <h2>Array Operations in React</h2>
-            <ul>
+            <ul> 
                 {Charecters.map((charecter, index) => (
                     <li key={index}>{charecter}</li>
                 ))}
