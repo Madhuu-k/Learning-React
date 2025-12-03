@@ -1,8 +1,10 @@
-import ArrayState2 from "./Topic-4/ArrayState2";
+import ToggleButton from "./Topic-4/ToggleButton";
 
 function App() {
   return (
-    <ArrayState2 />
+    <>
+       <ToggleButton />
+    </>
   );
 }
 
