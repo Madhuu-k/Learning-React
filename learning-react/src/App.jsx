@@ -1,9 +1,9 @@
-import ToggleButton from "./Topic-4/ToggleButton";
+import AddExample from "./Topic-4/AddExample";
 
 function App() {
   return (
     <>
-       <ToggleButton />
+       <AddExample />
     </>
   );
 }
