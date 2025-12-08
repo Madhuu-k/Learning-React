@@ -1,9 +1,9 @@
-import LoginForm from "./Topic-6/LoginForm";
+import RegistrationForm from "./Topic-6/RegistrationForm";
 
 function App() {
   return (
     <>
-       <LoginForm />
+       <RegistrationForm />
     </>
   );
 }
