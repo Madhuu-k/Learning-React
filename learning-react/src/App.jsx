@@ -1,9 +1,9 @@
-import APIRunOnceAsync from "./Topic-7/APIRunOnceAsync";
+import CompleteSearchBar from "./Topic-7/CompleteSearchBar";
 
 function App() {
   return (
     <>
-       <APIRunOnceAsync />
+       <CompleteSearchBar />
     </>
   );
 }
